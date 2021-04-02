@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jazmainian
+- 🌱 I’m currently learning ... Creo, Matlab, C++
+- 💞️ I’m ... an Aerospace Engineering Student
